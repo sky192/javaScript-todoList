@@ -1,2 +1,2 @@
-# javaScript-todoList
+# JavaScript-todoList
  
