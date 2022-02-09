@@ -106,7 +106,7 @@ function removeLocalTodo(todo) {
     localStorage.setItem("todos", JSON.stringify(todos));
 }
 
-// get todos from localStorage
+// get todos from localStorage to show on ui
 function getTodos() {
     let todos;
     if (localStorage.getItem("todos") === null) {
